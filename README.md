@@ -2,4 +2,4 @@
 
 # Desafios com Python 3
 
-Este notebook é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
+Este repositório é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
